@@ -1,0 +1,4 @@
+Hello, Java!
+This is a test message for encryption and decryption.
+12345 !?., ABC xyz
+Перевірка українського тексту.
